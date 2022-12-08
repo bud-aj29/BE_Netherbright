@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Removed nether fog. Removed vignette. Brightened up netherrack textures just a bit.",
+        "name": "Netherbright",
+        "uuid": "3cb8163c-36cd-403f-9e0a-f8698b0bb24e",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "8a96340e-3550-4996-ba8b-302e32a61951",
+            "version": [0, 0, 1]
+        }
+    ]
+}
